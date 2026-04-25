@@ -1,7 +1,0 @@
-streamlit>=1.30
-yfinance>=0.2.40
-pandas>=2.0
-numpy>=1.24
-# Optional: enables XGBoost ML classifier in Tracker tab.
-# If not installed, falls back to a built-in logistic regression.
-xgboost>=2.0
